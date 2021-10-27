@@ -1,0 +1,144 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Pemprov DKI Jakarta Berencana Ganti Nama Jalan di Jakarta dengan Tokoh Mustafa Kemal Ataturk| Liputan 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+      "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/B9JmviR2zHRR7KfAkEjeqbpcGv4=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329745/tokoh-turki-jadi-nama-jalan-ebd5a5.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Polda Metro Jaya Akan Panggil Rachel Vennya Terkait Kasus Mafia Karantina | Liputan 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+      "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/r50k6ol0hXswLRTHQcmVvXQ5gRU=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329738/polisi-akan-panggil-rachel-vennya-93b109.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Pemerintah Kembali Perpanjang PPKM, Kapasitas Bioskop Boleh Bertambah hingga 70 Persen | Liputan 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+      "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/AEPXf9Km5psX09Mbx5rDN1YbE4s=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329732/ppkm-diperpanjang-bd71b1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Arab Saudi Izinkan Jamaah Indonesia Pakai Sinovac untuk Umrah, Namun dengan Syarat | Liputan 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+      "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/qE-X4ifNHxai_fIP7-X2ubU1TnM=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329729/ibadah-umroh-bagi-jemaah-indonesia-553885.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Usai Viral Sebut ‘Orang Betawi Bodoh’ , Pelaku Rasisme Venus Ditangkap Polisi di Slawi | Liputan 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+      "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/Ahzc--k6qnF_b27DNlJRJkOhu8Q=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329750/pelaku-rasisme-ditangkap-81ea2e.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Rigen Jadi Vampir, Kok Ga Ada Serem Seremnya | The Sultan",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+      "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/l81IBjKNsrwpJjNaiHSIc857i2M=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329573/rigen-jadi-vampir-kok-ga-ada-wibawanya-the-sultan-243e75.jpg"
+    }
+  ],
+  "related_videos": [
+    {
+      "id": 1,
+      "contents": [
+        {
+          "id": 2,
+          "title": "Polda Metro Jaya Akan Panggil Rachel Vennya Terkait Kasus Mafia Karantina | Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/r50k6ol0hXswLRTHQcmVvXQ5gRU=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329738/polisi-akan-panggil-rachel-vennya-93b109.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Rigen Jadi Vampir, Kok Ga Ada Serem Seremnya | The Sultan",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/l81IBjKNsrwpJjNaiHSIc857i2M=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329573/rigen-jadi-vampir-kok-ga-ada-wibawanya-the-sultan-243e75.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "contents": [
+        {
+          "id": 1,
+          "title": "Pemprov DKI Jakarta Berencana Ganti Nama Jalan di Jakarta dengan Tokoh Mustafa Kemal Ataturk| Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/B9JmviR2zHRR7KfAkEjeqbpcGv4=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329745/tokoh-turki-jadi-nama-jalan-ebd5a5.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Pemerintah Kembali Perpanjang PPKM, Kapasitas Bioskop Boleh Bertambah hingga 70 Persen | Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/AEPXf9Km5psX09Mbx5rDN1YbE4s=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329732/ppkm-diperpanjang-bd71b1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "contents": [
+        {
+          "id": 4,
+          "title": "Arab Saudi Izinkan Jamaah Indonesia Pakai Sinovac untuk Umrah, Namun dengan Syarat | Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/qE-X4ifNHxai_fIP7-X2ubU1TnM=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329729/ibadah-umroh-bagi-jemaah-indonesia-553885.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Usai Viral Sebut ‘Orang Betawi Bodoh’ , Pelaku Rasisme Venus Ditangkap Polisi di Slawi | Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/Ahzc--k6qnF_b27DNlJRJkOhu8Q=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329750/pelaku-rasisme-ditangkap-81ea2e.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "contents": [
+        {
+          "id": 1,
+          "title": "Pemprov DKI Jakarta Berencana Ganti Nama Jalan di Jakarta dengan Tokoh Mustafa Kemal Ataturk| Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/B9JmviR2zHRR7KfAkEjeqbpcGv4=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329745/tokoh-turki-jadi-nama-jalan-ebd5a5.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Polda Metro Jaya Akan Panggil Rachel Vennya Terkait Kasus Mafia Karantina | Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/r50k6ol0hXswLRTHQcmVvXQ5gRU=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329738/polisi-akan-panggil-rachel-vennya-93b109.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "contents": [
+        {
+          "id": 4,
+          "title": "Arab Saudi Izinkan Jamaah Indonesia Pakai Sinovac untuk Umrah, Namun dengan Syarat | Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/qE-X4ifNHxai_fIP7-X2ubU1TnM=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329729/ibadah-umroh-bagi-jemaah-indonesia-553885.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Rigen Jadi Vampir, Kok Ga Ada Serem Seremnya | The Sultan",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/l81IBjKNsrwpJjNaiHSIc857i2M=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329573/rigen-jadi-vampir-kok-ga-ada-wibawanya-the-sultan-243e75.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "contents": [
+        {
+          "id": 1,
+          "title": "Pemprov DKI Jakarta Berencana Ganti Nama Jalan di Jakarta dengan Tokoh Mustafa Kemal Ataturk| Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/B9JmviR2zHRR7KfAkEjeqbpcGv4=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329745/tokoh-turki-jadi-nama-jalan-ebd5a5.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Usai Viral Sebut ‘Orang Betawi Bodoh’ , Pelaku Rasisme Venus Ditangkap Polisi di Slawi | Liputan 6",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis orci sapien, dapibus vitae urna nec, laoreet finibus velit. Donec a.",
+          "thumbnail_url": "https://cdn-production-thumbor-vidio.akamaized.net/Ahzc--k6qnF_b27DNlJRJkOhu8Q=/224x126/filters:quality(70)/vidio-web-prod-video/uploads/video/image/2329750/pelaku-rasisme-ditangkap-81ea2e.jpg"
+        }
+      ]
+    }
+  ]
+}
